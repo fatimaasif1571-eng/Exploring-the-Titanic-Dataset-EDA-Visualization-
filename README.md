@@ -6,8 +6,8 @@ The project covers **data cleaning, exploration, and visualization** to uncover 
 ---
 
 ## 📂 Project Structure
-- **Task1.ipynb** → Main Jupyter Notebook containing code, explanations, and visualizations
-- **train.csv** → Titanic dataset (to be placed in the same folder)
+- **Titanic EDA.ipynb** → Main Jupyter Notebook containing code, explanations, and visualizations
+- **titanic.csv** → Titanic dataset (to be placed in the same folder)
 
 ---
 
